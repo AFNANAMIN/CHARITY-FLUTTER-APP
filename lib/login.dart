@@ -15,7 +15,7 @@ class _LoginState extends State<Login> {
       backgroundColor: Colors.blueAccent,
       
       appBar: AppBar(
-      title: Text('  ALAKHIRAH   '),
+      title: Text('  AL KHAIRAT   '),
     ),
     drawer: Drawer(
   elevation: 16.0,
